@@ -4,7 +4,7 @@
 
 Terminal OpenAPI Spec viewer
 
-![oq](https://repo.x-cmd.io/oq.svg)
+![oq](https://repo.x-cmd.io/oq.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,19 @@ x install oq
 - **最新版本**: `v0.0.22` (2026-03-15)
 - **最近提交**: 2026-03-15
 - **Release 含资产**: 8 个
-- **发布时间**: 2026-03-15T20:58:53Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [oq_0.0.22_checksums.txt](https://github.com/plutov/oq/releases/download/v0.0.22/oq_0.0.22_checksums.txt) | 661 B | `other` |
+| [oq_0.0.22_darwin_amd64.tar.gz](https://github.com/plutov/oq/releases/download/v0.0.22/oq_0.0.22_darwin_amd64.tar.gz) | 3.9 MiB | `native/darwin/x64` |
+| [oq_0.0.22_darwin_arm64.tar.gz](https://github.com/plutov/oq/releases/download/v0.0.22/oq_0.0.22_darwin_arm64.tar.gz) | 3.7 MiB | `native/darwin/arm64` |
+| [oq_0.0.22_linux_386.tar.gz](https://github.com/plutov/oq/releases/download/v0.0.22/oq_0.0.22_linux_386.tar.gz) | 3.7 MiB | `native/unknown` |
+| [oq_0.0.22_linux_amd64.tar.gz](https://github.com/plutov/oq/releases/download/v0.0.22/oq_0.0.22_linux_amd64.tar.gz) | 3.8 MiB | `native/linux/x64` |
+| [oq_0.0.22_linux_arm64.tar.gz](https://github.com/plutov/oq/releases/download/v0.0.22/oq_0.0.22_linux_arm64.tar.gz) | 3.5 MiB | `native/linux/arm64` |
+| [oq_0.0.22_windows_386.zip](https://github.com/plutov/oq/releases/download/v0.0.22/oq_0.0.22_windows_386.zip) | 3.8 MiB | `native/win/x64` |
+| [oq_0.0.22_windows_amd64.zip](https://github.com/plutov/oq/releases/download/v0.0.22/oq_0.0.22_windows_amd64.zip) | 3.9 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -60,4 +72,4 @@ oq 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T03:22:03Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:52:00Z._

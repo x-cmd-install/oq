@@ -22,7 +22,19 @@ x install oq
 - **Latest**: `v0.0.22` (2026-03-15)
 - **Last commit**: 2026-03-15
 - **Assets in release**: 8
-- **Published**: 2026-03-15T20:58:53Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [oq_0.0.22_checksums.txt](https://github.com/plutov/oq/releases/download/v0.0.22/oq_0.0.22_checksums.txt) | 661 B | `other` |
+| [oq_0.0.22_darwin_amd64.tar.gz](https://github.com/plutov/oq/releases/download/v0.0.22/oq_0.0.22_darwin_amd64.tar.gz) | 3.9 MiB | `native/darwin/x64` |
+| [oq_0.0.22_darwin_arm64.tar.gz](https://github.com/plutov/oq/releases/download/v0.0.22/oq_0.0.22_darwin_arm64.tar.gz) | 3.7 MiB | `native/darwin/arm64` |
+| [oq_0.0.22_linux_386.tar.gz](https://github.com/plutov/oq/releases/download/v0.0.22/oq_0.0.22_linux_386.tar.gz) | 3.7 MiB | `native/unknown` |
+| [oq_0.0.22_linux_amd64.tar.gz](https://github.com/plutov/oq/releases/download/v0.0.22/oq_0.0.22_linux_amd64.tar.gz) | 3.8 MiB | `native/linux/x64` |
+| [oq_0.0.22_linux_arm64.tar.gz](https://github.com/plutov/oq/releases/download/v0.0.22/oq_0.0.22_linux_arm64.tar.gz) | 3.5 MiB | `native/linux/arm64` |
+| [oq_0.0.22_windows_386.zip](https://github.com/plutov/oq/releases/download/v0.0.22/oq_0.0.22_windows_386.zip) | 3.8 MiB | `native/win/x64` |
+| [oq_0.0.22_windows_amd64.zip](https://github.com/plutov/oq/releases/download/v0.0.22/oq_0.0.22_windows_amd64.zip) | 3.9 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -56,8 +68,8 @@ Total: **104,312** lines of code across **15** files in the top 5 languages.
 Install metadata for oq lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `oq` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/oq.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/oq.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T03:22:03Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:52:00Z._
